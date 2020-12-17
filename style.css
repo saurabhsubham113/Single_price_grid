@@ -163,7 +163,7 @@ footer {
     border-radius: 0 0 10px 10px;
     grid-area: bottom-right;
     padding: 30px;
-    background-color: hsl(179, 62%, 43%, 0.7);
+    background-color: hsl(179, 62%, 43%, 0.85);
   }
   .title-1 {
     line-height: 3;
