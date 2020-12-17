@@ -130,6 +130,9 @@ footer {
   .container {
     min-height: 100vh;
   }
+  .line-break {
+    margin: 8px 0;
+  }
   .card {
     margin-top: 40px;
     height: 80%;
